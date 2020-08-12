@@ -211,9 +211,9 @@
   background-color: $secondary-color;
 }
 
-.bg-footer a {
+.bg-footer, .bg-footer a {
   color: $white;
-  opacity: 0.91;
+  opacity: 0.85;
 }
 
 .bg-footer a:hover, .bg-footer a:focus, .bg-footer a:active {
