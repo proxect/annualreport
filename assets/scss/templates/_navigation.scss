@@ -3,6 +3,8 @@
   transition: transform .2s ease;
   transform-origin: top;
   font-weight: 600;
+  /* DO NOT DISPLAY THE TOP HEADER BAR ON EVERY PAGE */
+  display: none !important;
 
   &.hide {
     transform: scaleY(0);
