@@ -213,6 +213,12 @@
 
 .bg-footer a {
   color: $white;
+  opacity: 0.91;
+}
+
+.bg-footer a:hover, .bg-footer a:focus, .bg-footer a:active {
+  text-decoration: underline;
+  opacity: 1;
 }
 
 .logo-footer {
