@@ -86,8 +86,8 @@
 }
 
 .btn-secondary {
-  background: $secondary-color;
-  color: $primary-color;
+  background: $primary-color;
+  color: $secondary-color;
   border: 1px solid $white;
 
   &::before {
