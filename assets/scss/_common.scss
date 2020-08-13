@@ -237,9 +237,8 @@ a h4{
 }
 
 .custom-breadcrumb {
-  li {
+  li { font-family: $primary-font;
     &.nasted {
-	font-family: $primary-font;
       position: relative;
       padding-left: 25px;
 
