@@ -151,7 +151,7 @@ link:focus,
       color: $text-color-dark;
       transition: .2s ease;
       text-transform: capitalize;
-      font-family: $primary-font;
+      font-family: $secondary-font;
 
       @include desktop {
         text-align: center;
