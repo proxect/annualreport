@@ -8,7 +8,7 @@ slider:
       tempor incididunt ut labore et magna aliqua. Ut enim ad minim veniam, quis nostrud
       exer
     animation_in: left
-    animation_out: right
+    animation_out: left
     button:
       enable: true
       label: Apply now
