@@ -1,34 +1,14 @@
 ---
 slider:
   enable: true
-  bg_image: "/images/jj-ying-7jx0-bfiuxq-unsplash.jpg"
+  bg_image: "/images/03.jpg"
   slider_item:
   - title: 2020 OCASI Annual Report
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
       tempor incididunt ut labore et magna aliqua. Ut enim ad minim veniam, quis nostrud
       exer
     animation_in: left
-    animation_out: right
-    button:
-      enable: true
-      label: Apply now
-      link: contact
-  - title: Your bright future is our mission
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut labore et magna aliqua. Ut enim ad minim veniam, quis nostrud
-      exer
-    animation_in: left
-    animation_out: right
-    button:
-      enable: true
-      label: Apply now
-      link: contact
-  - title: Your bright future is our mission
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut labore et magna aliqua. Ut enim ad minim veniam, quis nostrud
-      exer
-    animation_in: left
-    animation_out: right
+    animation_out: left
     button:
       enable: true
       label: Apply now
