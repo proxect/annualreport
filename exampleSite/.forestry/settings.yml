@@ -7,8 +7,8 @@ sections:
 - type: heading
   label: AR Static Pages
 - type: directory
-  path: department
-  label: Departments
+  path: ''
+  label: Static Pages
   create: all
   match: "**/*"
 - type: heading
