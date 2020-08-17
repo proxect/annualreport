@@ -1,5 +1,5 @@
 +++
-bg_image = "/images/istockphoto-1253774892-1024x1024.jpg"
+bg_image = "/images/12.jpg"
 description = "A default static page sample"
 title = "Static Page"
 
