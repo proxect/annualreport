@@ -13,6 +13,15 @@ slider:
       enable: true
       label: Apply now
       link: contact
+  - title: Lorem ipsum dolor sit amet, consectetur
+    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+      tempor incididunt ut labore et magna aliqua. Ut enim ad minim veniam, quis nostrud
+      exer
+    animation_in: left
+    animation_out: left
+    button:
+      label: Learn more
+      enable: true
 banner_feature:
   enable: true
   image: images/banner/banner-feature.png
