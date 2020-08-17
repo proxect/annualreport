@@ -8,8 +8,8 @@ sections:
   label: Department
 - type: directory
   path: department
-  label: Department 1
-  create: documents
+  label: Departments
+  create: all
   match: "**/*"
 - type: heading
   label: Blog Post
