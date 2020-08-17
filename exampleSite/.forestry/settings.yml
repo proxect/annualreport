@@ -7,7 +7,7 @@ sections:
 - type: heading
   label: Department
 - type: directory
-  path: examplesite-content-english-department-department-1-md
+  path: department
   label: Department 1
   create: documents
   match: "**/*"
