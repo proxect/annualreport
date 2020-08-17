@@ -8,7 +8,7 @@ sections:
   label: Annual Report
 - type: directory
   path: ''
-  label: Static Pages
+  label: Content Pages
   create: all
   match: "**/*"
 - type: heading
