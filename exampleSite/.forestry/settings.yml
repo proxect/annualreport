@@ -7,17 +7,12 @@ sections:
 - type: heading
   label: Annual Report Content
 - type: directory
-  path: department
+  path: content/english/departments
   label: Departments
   create: all
   match: "**/*"
   templates:
   - ar-content-page
-- type: directory
-  path: '2020'
-  label: Content Page
-  create: all
-  match: "**/*"
 - type: heading
   label: Blog Post
 - type: directory

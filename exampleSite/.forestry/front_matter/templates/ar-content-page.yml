@@ -14,15 +14,3 @@ fields:
 - type: textarea
   name: description
   label: description
-pages:
-- 2020/about/a-message-from-the-president-and-the-executive-director.md
-- 2020/about/about-ocasi.md
-- 2020/about/board-of-directors.md
-- 2020/about/ocasi-founding-members.md
-- 2020/about/ocasi-timeline-42-years.md
-- 2020/department/policy-and-research.md
-- department/access-and-equity.md
-- department/building-capacity.md
-- department/membership.md
-- department/policy-and-research.md
-- department/technology-and-new-media.md
