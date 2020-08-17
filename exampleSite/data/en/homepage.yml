@@ -1,7 +1,7 @@
 ---
 slider:
   enable: true
-  bg_image: "/images/jj-ying-7jx0-bfiuxq-unsplash.jpg"
+  bg_image: "/images/03.jpg/images/03.jpg"
   slider_item:
   - title: 2020 OCASI Annual Report
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
