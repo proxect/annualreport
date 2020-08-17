@@ -5,7 +5,7 @@ admin_path: ''
 webhook_url: 
 sections:
 - type: heading
-  label: Annual Report
+  label: Annual Report Content
 - type: directory
   path: department
   label: Departments
