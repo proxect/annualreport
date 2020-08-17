@@ -4,10 +4,10 @@
     transition: .1s ease;
     &.active{
       font-weight: 600;
-      color: $primary-color;
+      color: $accent-color;
     }
     &:hover{
-      color: $primary-color;
+      color: $accent-color;
     }
   }
 }
@@ -19,7 +19,7 @@
     background: $light;
     color: $text-color;
     &:hover{
-      background-color: $primary-color;
+      background-color: $accent-color;
       color: $white;
     }
   }

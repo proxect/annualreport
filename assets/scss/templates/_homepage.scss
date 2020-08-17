@@ -1,7 +1,7 @@
 /* banner feature */
 .feature-icon {
   font-size: 50px;
-  color: $primary-color;
+  color: $accent-color;
   display: inline-block;
 }
 
@@ -79,7 +79,7 @@
   height: 80px;
   width: 80px;
   border-radius: 50%;
-  background: $primary-color;
+  background: $accent-color;
   color: $white;
   font-size: 20px;
   text-align: center;
@@ -109,7 +109,7 @@
     height: 80%;
     width: 80%;
     transform: translate(-50%, -50%);
-    background: $primary-color;
+    background: $accent-color;
     border-radius: 50%;
     top: 50%;
     left: 50%;
@@ -137,7 +137,7 @@
 /* events */
 .card-date {
   position: absolute;
-  background: $primary-color;
+  background: $accent-color;
   font-family: $secondary-font;
   text-align: center;
   padding: 10px;
@@ -164,7 +164,7 @@
 
 /* footer */
 .newsletter {
-  background-image: linear-gradient(to right, transparent 50%, $primary-color 50%);
+  background-image: linear-gradient(to right, transparent 50%, $accent-color 50%);
   margin-bottom: -170px;
   position: relative;
   z-index: 1;
@@ -196,7 +196,7 @@
   padding-left: 25px;
 
   &:focus {
-    border-color: $primary-color;
+    border-color: $accent-color;
     box-shadow: none;
   }
 }
@@ -208,7 +208,7 @@
 }
 
 .bg-footer {
-  background-color: $secondary-color;
+  background-color: $primary-color;
 }
 
 .bg-footer, .bg-footer p, .bg-footer a {

@@ -4,7 +4,7 @@ body {
 }
 
 ::selection {
-  background: lighten($color: $primary-color, $amount: 10);
+  background: lighten($color: $accent-color, $amount: 10);
   color: $white;
 }
 
@@ -56,15 +56,15 @@ select {
 }
 
 a:hover {
-  color: $primary-color;
+  color: $accent-color;
 }
 
 a.text-primary:hover {
-  color: $primary-color!important;
+  color: $accent-color!important;
 }
 
 a.text-light:hover {
-  color: $primary-color!important;
+  color: $accent-color!important;
 }
 
 h4{
@@ -72,7 +72,7 @@ h4{
 }
 a h4{
   &:hover{
-    color: $primary-color;
+    color: $accent-color;
   }
 }
 
@@ -116,7 +116,7 @@ a h4{
     width: 100%;
     top: 0;
     left: 0;
-    background: $tertiary-color;
+    background: $secondary-color;
     opacity: .8;
   }
 }
@@ -130,11 +130,11 @@ a h4{
 }
 
 .bg-primary {
-  background: $primary-color !important;
+  background: $accent-color !important;
 }
 
 .bg-secondary {
-  background: $secondary-color !important;
+  background: $primary-color !important;
 }
 
 .bg-gray {
@@ -142,7 +142,7 @@ a h4{
 }
 
 .text-primary {
-  color: $primary-color !important;
+  color: $accent-color !important;
 }
 
 .text-color {
@@ -269,7 +269,7 @@ a h4{
       height: 10px;
       width: 10px;
       border-radius: 50%;
-      background: $primary-color;
+      background: $accent-color;
       left: -25px;
       top: 5px;
     }
@@ -300,9 +300,9 @@ textarea.form-control{
 
     &.active {
       .page-link {
-        background: $primary-color;
+        background: $accent-color;
         color: $white;
-        border-color: $primary-color;
+        border-color: $accent-color;
       }
     }
 
@@ -356,7 +356,7 @@ textarea.form-control{
         font-size: 14px;
         left: 0;
         top: 1px;
-        color: $primary-color;
+        color: $accent-color;
         transition: .3s ease;
       }
     }

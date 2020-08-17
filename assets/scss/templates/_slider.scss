@@ -21,7 +21,7 @@
     }
 
     &:hover {
-      color: $primary-color;
+      color: $accent-color;
     }
   }
 
@@ -45,7 +45,7 @@
 
       &.slick-active {
         button {
-          background: $primary-color;
+          background: $accent-color;
         }
       }
 
