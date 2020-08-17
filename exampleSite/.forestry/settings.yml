@@ -7,9 +7,9 @@ sections:
 - type: heading
   label: Annual Report
 - type: directory
-  path: about
-  label: About Pages
-  create: documents
+  path: department
+  label: Departments
+  create: all
   match: "**/*"
   templates:
   - ar-content-page
