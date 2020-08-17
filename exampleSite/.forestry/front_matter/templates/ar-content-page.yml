@@ -1,6 +1,6 @@
 ---
-label: AR Content Page
-hide_body: false
+label: New Content Page
+hide_body: true
 fields:
 - type: text
   name: title
