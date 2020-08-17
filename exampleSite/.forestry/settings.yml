@@ -6,9 +6,10 @@ webhook_url:
 sections:
 - type: heading
   label: Department
-- type: document
+- type: directory
   path: examplesite-content-english-department-department-1-md
   label: Department 1
+  create: documents
   match: "**/*"
 - type: heading
   label: Blog Post
