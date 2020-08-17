@@ -1,14 +1,12 @@
 ---
-title: "Scholarship"
-draft: false
-# page title background image
-bg_image: "images/backgrounds/page-title.jpg"
-# image
-image: "images/about/about-page.jpg"
-# meta description
-description : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore. dolore magna aliqua. Ut enim ad minim veniam, quis nostrud."
----
+title: Scholarship
+bg_image: "/images/03.jpg"
+image: images/about/about-page.jpg
+description: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+  tempor incididunt ut labore. dolore magna aliqua. Ut enim ad minim veniam, quis
+  nostrud.
 
+---
 ## SCHOLARSHIPS NEWS
 
 **_Our campuses are living laboratories for sustainability._**
