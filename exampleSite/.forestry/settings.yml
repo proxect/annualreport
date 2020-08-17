@@ -4,16 +4,23 @@ auto_deploy: false
 admin_path: ''
 webhook_url: 
 sections:
+- type: heading
+  label: Annual Report Content
 - type: directory
   path: exampleSite/content/english/about
   label: About Pages
   create: all
   match: "**/*"
-- type: heading
-  label: Annual Report Content
 - type: directory
   path: exampleSite/content/english/departments
   label: Departments
+  create: all
+  match: "**/*"
+  templates:
+  - ar-content-page
+- type: directory
+  path: exampleSite/content/english/members
+  label: Members Pages
   create: all
   match: "**/*"
   templates:
