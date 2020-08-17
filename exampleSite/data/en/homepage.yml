@@ -26,7 +26,7 @@ banner_feature:
   enable: true
   image: images/banner/banner-feature.png
   feature_item:
-  - name: OCASI Founding Members
+  - name: Founding Members
     icon: ti-book
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
       tempor incididunt ut labore  dolore magna aliqua. Ut enim ad
@@ -44,7 +44,7 @@ banner_feature:
       tempor incididunt ut labore  dolore magna aliqua. Ut enim ad
 about:
   enable: true
-  title: About Educenter
+  title: OCASI – 42 Years
   image: images/about/about-us.jpg
   content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
     tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
