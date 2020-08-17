@@ -1,6 +1,7 @@
 +++
 bg_image = "/images/12.jpg"
 description = "A default static page sample"
+number_field_test = nil
 title = "Static Page"
 
 +++
