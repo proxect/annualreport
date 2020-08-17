@@ -4,6 +4,8 @@ auto_deploy: false
 admin_path: ''
 webhook_url: 
 sections:
+- type: heading
+  label: Annual Report
 - type: directory
   path: about
   label: About Pages
@@ -11,8 +13,6 @@ sections:
   match: "**/*"
   templates:
   - ar-content-page
-- type: heading
-  label: Annual Report
 - type: directory
   path: '2020'
   label: Content Page
